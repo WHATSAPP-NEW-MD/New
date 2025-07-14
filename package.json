@@ -1,0 +1,15 @@
+{
+  "name": "shanuwa-md-bot",
+  "version": "1.0.0",
+  "description": "Shanuwa Md WhatsApp Bot by Shanuka Shameen",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "@hapi/boom": "^10.0.1"
+  },
+  "author": "Shanuka Shameen",
+  "license": "ISC"
+}
